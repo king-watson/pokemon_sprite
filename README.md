@@ -1,6 +1,5 @@
-# pokemon_sprite
-# Marvel Comics Build For Fall 2023
-This repo is for an in-class build demonstrating basic CSS layouts, CSS sprites, and a light-box effect.
+# Pokemon Showcase
+This repo is for me to be creative in visual studio code and to learn my way around css. This was a great assignment to get my mind thinking of colour choices and to work with light box.
 
 ## Installation
 
@@ -24,7 +23,7 @@ TODO: Write history
 
 ## Credits
 
-Marco De Luca
+Pokemon & Kingsley Watson
 
 ## License
 
