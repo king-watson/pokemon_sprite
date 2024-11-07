@@ -1,4 +1,4 @@
-/* Global rules */
+
 .hidden {
     display: none;
 }
@@ -13,7 +13,7 @@ body {
     color: white;
 }
 
-/* Main Header rules */
+
 
 header {
     background-color: yellow;
@@ -27,13 +27,13 @@ header {
 }
 
 
-
-
-/* Characters */
-
 .characters {
-    list-style-type: none;
-    padding: 0px;
+    list-style: none;
+    padding-top: 50px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
 }
 
 .characters li {
@@ -65,6 +65,36 @@ article p, #instructions p {
     line-height: 22px;
     text-align: center;
     margin: 0px auto;
+}
+
+.sticky_footer img {
+    height: 750px;
+    width: 1200px;
+    border-radius: 50px;
+}
+
+.lb_heading1 {
+    color: green;
+}
+
+.lb_heading2 {
+    color: orange;
+}
+
+.lb_heading3 {
+    color: blue;
+}
+
+.lb_heading4 {
+    color: yellow;
+}
+
+.lb_heading5 {
+    color: pink;
+}
+
+.lb_heading6 {
+    color: purple;
 }
 
 .sprite {
@@ -100,9 +130,6 @@ article p, #instructions p {
 #cap:hover, #carol:hover, #clint:hover, #hulk:hover, #thor:hover, #widow:hover {
     background-position-y: -150px;
 }
-
-
-/* Footer rules */
 
 footer {
     color: white;
